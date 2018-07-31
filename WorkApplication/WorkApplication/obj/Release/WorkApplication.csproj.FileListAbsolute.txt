@@ -1,0 +1,14 @@
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\bin\Release\WorkApplication.exe.config
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\bin\Release\WorkApplication.exe.manifest
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\bin\Release\WorkApplication.application
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\bin\Release\WorkApplication.exe
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\bin\Release\WorkApplication.pdb
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.TroubleshootingApp.resources
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.Properties.Resources.resources
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.exe.manifest
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.application
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.exe
+C:\Users\Jacob\source\repos\WorkApplication\WorkApplication\obj\Release\WorkApplication.pdb

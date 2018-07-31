@@ -1,0 +1,9 @@
+C:\Users\Jacob\source\repos\WorkApplication\bin\Release\WindowsApplication.exe.config
+C:\Users\Jacob\source\repos\WorkApplication\bin\Release\WindowsApplication.exe
+C:\Users\Jacob\source\repos\WorkApplication\bin\Release\WindowsApplication.pdb
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Release\WorkApplication.TroubleshootingApp.resources
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Release\WorkApplication2.WorkApplication.Properties.Resources.resources
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Release\WorkApplication2.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Release\WorkApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Release\WindowsApplication.exe
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Release\WindowsApplication.pdb

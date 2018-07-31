@@ -1,0 +1,14 @@
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\WorkApplication2.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\WorkApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\WorkApplication.TroubleshootingApp.resources
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\WorkApplication2.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\WorkApplication\bin\Debug\GhostWorks.exe.config
+C:\Users\Jacob\source\repos\WorkApplication\bin\Debug\GhostWorks.exe.manifest
+C:\Users\Jacob\source\repos\WorkApplication\bin\Debug\GhostWorks.application
+C:\Users\Jacob\source\repos\WorkApplication\bin\Debug\GhostWorks.exe
+C:\Users\Jacob\source\repos\WorkApplication\bin\Debug\GhostWorks.pdb
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\GhostWorks.exe.manifest
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\GhostWorks.application
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\GhostWorks.exe
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\GhostWorks.pdb
+C:\Users\Jacob\source\repos\WorkApplication\obj\x86\Debug\GhostWorks.WorkApplication.Properties.Resources.resources
